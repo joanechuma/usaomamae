@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://teequemaed.luics.com/sitemap.xml
